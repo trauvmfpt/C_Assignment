@@ -60,6 +60,7 @@ void InputStudent(){
         InputName(i);
         InputPhoneNumber(i);
         InputBirthday(i);
+        printf("Successfully added student!\n");
     }
 }
 
